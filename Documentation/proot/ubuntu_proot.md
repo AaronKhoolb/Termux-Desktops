@@ -47,6 +47,9 @@ apt install sudo nano adduser -y
 * startgnome_ubuntu.sh
 ```
 wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/proot_ubuntu/startgnome_ubuntu.sh
+
+wget https://raw.githubusercontent.com/AaronKhoolb/Termux-Desktops/refs/heads/main/scripts/proot_ubuntu/startgnome_ubuntu.sh
+
 ```
 * startxfce4_ubuntu.sh
 ```
