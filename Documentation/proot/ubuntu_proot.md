@@ -77,7 +77,7 @@ I have use the following [post](https://ivonblog.com/en-us/posts/termux-proot-di
 
 ```
 # Commands: 
-proot-distro login ubuntu --user droidmaster
+proot-distro login ubuntu --user aaron
 ```
 ```
 sudo apt install dbus-x11 ubuntu-desktop -y
